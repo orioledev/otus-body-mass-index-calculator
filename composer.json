@@ -2,6 +2,7 @@
   "name": "orioledev/otus-body-mass-index-calculator",
   "description": "Body mass index calculator",
   "type": "library",
+  "license": "BSD-3-Clause",
   "autoload": {
     "psr-4": {
       "OrioleDev\\OtusBodyMassIndexCalculator\\": "src"
