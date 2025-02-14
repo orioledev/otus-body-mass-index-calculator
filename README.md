@@ -4,21 +4,11 @@ Calculation of body mass index based on a person's given weight and height.
 
 ## Installation
 
-The preferred way to install this extension is through composer.
-
-Either run
+The package could be installed with [Composer](https://getcomposer.org/):
 
 ```
-php composer.phar require orioledev/otus-body-mass-index-calculator "^1.0.0"
+composer require orioledev/otus-body-mass-index-calculator
 ```
-
-or add
-
-```
-"orioledev/otus-body-mass-index-calculator": "^1.0.0"
-```
-
-to the require section of your composer.json.
 
 ## Usage
 
