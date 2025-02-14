@@ -1,0 +1,19 @@
+{
+  "name": "orioledev/otus-body-mass-index-calculator",
+  "description": "Body mass index calculator",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "OrioleDev\\OtusBodyMassIndexCalculator\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Kuzmina Mariia",
+      "email": "orriole@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
